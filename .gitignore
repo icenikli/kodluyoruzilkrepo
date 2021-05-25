@@ -1,0 +1,10 @@
+#videos
+*.mp4
+
+#img
+*.jpg
+
+*.png
+
+#diğer indirilen vs özel bilgiler
+password.txt
